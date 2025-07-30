@@ -22,3 +22,6 @@
   - Model safety/security
   - Model transparency/explainability
 - Understand how **human-centric design** supports better explainability in AI systems.
+
+![alt text](image.png)
+
