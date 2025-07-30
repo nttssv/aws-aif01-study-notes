@@ -24,4 +24,44 @@
 - Understand how **human-centric design** supports better explainability in AI systems.
 
 ![alt text](image.png)
+![alt text](<Effects of bias and variance.png>)
+![alt text](<Pasted Graphic 4.png>)
+# Class Imbalance and Its Impact on Model Performance
 
+## What is Class Imbalance?
+
+Class imbalance occurs when a **feature value has significantly fewer training samples** compared to other values in the dataset.
+
+### Example:
+- Feature: **Sex**
+  - Women: **32.4%** of training data
+  - Men: **67.6%** of training data
+
+This imbalance means the model has seen **more data for men** than for women during training.
+
+## Effects on the Model
+
+- **Better Performance on Majority Class (Men):**
+  - More data → more representative patterns learned.
+- **Risk of Overfitting the Minority Class (Women):**
+  - Fewer samples → model may memorize rather than generalize.
+- **Higher Error Rate for Women:**
+  - Less exposure → poorer predictions.
+
+## Real-World Consequence
+
+If this model is used to **predict diseases**:
+- Women may be **misdiagnosed** more often.
+- This could lead to **inequity in healthcare outcomes** and mistrust in the model.
+
+---
+
+> ✅ Addressing class imbalance is essential for **fair, robust, and trustworthy AI**.
+
+![alt text](image-1.png)
+![alt text](<Pasted Graphic 8.png>)
+![alt text](<Pasted Graphic 9.png>)
+![alt text](<SageMaker Clarify processing jobs.png>)
+![alt text](image-2.png)
+![alt text](<Pasted Graphic 12.png>)
+![alt text](<Pasted Graphic 13.png>)
