@@ -14,7 +14,7 @@
 
 
 
-![alt text](../../imag/image.png)
+![alt text](../../img/image.png)
 ![alt text](<Effects of bias and variance.png>)
 ![alt text](<Pasted Graphic 4.png>)
 # Class Imbalance and Its Impact on Model Performance
