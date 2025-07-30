@@ -1,5 +1,3 @@
-# Task 4.2: Importance of Transparent and Explainable Models
-
 ## Understanding Responsible AI (Task 4.1)
 - Understand what **Responsible AI** is and its core principles.
 - Identify features of responsible AI systems (e.g., fairness, safety, accountability).
@@ -14,14 +12,7 @@
   - Monitor model behavior
   - Evaluate trustworthiness and truthfulness
 
-## Task 4.2: Transparency and Explainability in AI Models
-- Understand why **transparency and explainability** are key challenges in responsible AI.
-- Define what makes a model **transparent** or **explainable**.
-- Know tools that support explainability (e.g., SHAP, LIME, SageMaker Clarify).
-- Evaluate **tradeoffs** between:
-  - Model safety/security
-  - Model transparency/explainability
-- Understand how **human-centric design** supports better explainability in AI systems.
+
 
 ![alt text](image.png)
 ![alt text](<Effects of bias and variance.png>)
@@ -67,3 +58,22 @@ If this model is used to **predict diseases**:
 ![alt text](<Pasted Graphic 13.png>)
 ![alt text](<Amazon Bedrock Guardrails.png>)
 ![alt text](<• Model evaluation.png>)
+
+## Task 4.2: Transparency and Explainability in AI Models
+- Understand why **transparency and explainability** are key challenges in responsible AI.
+- Define what makes a model **transparent** or **explainable**.
+- Know tools that support explainability (e.g., SHAP, LIME, SageMaker Clarify).
+- Evaluate **tradeoffs** between:
+  - Model safety/security
+  - Model transparency/explainability
+- Understand how **human-centric design** supports better explainability in AI systems.
+![alt text](<Model transparency.png>)
+![alt text](<Interpretability compared to performance.png>)
+![alt text](<Transparency and model safety.png>)
+![alt text](<Open source Al models.png>)
+![alt text](<Model transparency on AWS.png>)
+![alt text](<SageMaker Clarify model explainability.png>)
+![alt text](<What is human-centered Al.png>)
+![alt text](<Amazon Augmented Al.png>)
+![alt text](<Reinforcement learning from human feedback (RLHF).png>)
+![alt text](<Amazon SageMaker Ground Truth.png>)
