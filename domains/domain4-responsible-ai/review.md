@@ -65,3 +65,5 @@ If this model is used to **predict diseases**:
 ![alt text](image-2.png)
 ![alt text](<Pasted Graphic 12.png>)
 ![alt text](<Pasted Graphic 13.png>)
+![alt text](<Amazon Bedrock Guardrails.png>)
+![alt text](<• Model evaluation.png>)
